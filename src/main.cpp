@@ -1,6 +1,6 @@
 /*
  
- 	YunYunLinux - WIP Linux Hack for Counter-Strike: Global Offensive
+    YunYunLinux - WIP Linux Hack for Counter-Strike: Global Offensive
     Copyright (C) 2017  xenocidewiki
 
     This program is free software: you can redistribute it and/or modify
